@@ -12,7 +12,7 @@ Display any shortcode to your sidebar easily.
 
 == Description ==
 
-### Shortcode To Widget         
+### Shortcode To Widget          
 
 Display any shortcode to your sidebar easily,
 for example display [Perso Slider](http://wp-time.com/perso-slider/) or [Facebook Post Embed](http://wp-time.com/facebook-post-embed/) or [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) or any shortcode to your sidebar.
