@@ -3,7 +3,7 @@
 Plugin Name: Shortcode To Widget
 Plugin URI: http://wp-time.com/shortcode-to-widget/
 Description: Display any shortcode to your sidebar easily.
-Version: 1.1
+Version: 1.2
 Author: Qassim Hassan
 Author URI: http://qass.im
 License: GPLv2 or later
