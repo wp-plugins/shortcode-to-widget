@@ -68,7 +68,7 @@ for example display [Perso Slider](http://wp-time.com/perso-slider/) or [Faceboo
 == Changelog ==
 
 = 1.2 =
-* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
+* Support WordPress latest version.
 
 = 1.1 =
 Fixing some problems.
